@@ -122,3 +122,7 @@ The circular buffer never exceeded 0% occupancy even during the largest observed
 - Raspberry Pi 5, passively cooled (no fan/heatsink attached)
 - Raspberry Pi OS (Debian 12 "Bookworm"), 64-bit, running headless (console mode)
 - `libwebsockets` 4.1.6, `cJSON` 1.7.15, GCC, POSIX threads
+
+## Author
+
+Athanasios Karatzas — School of Electrical & Computer Engineering (ECE), Electronics and Computer Sector, Supervising professor: Nikolaos Pitsianis, Aristotle University of Thessaloniki (AUTh)

@@ -1,0 +1,15 @@
+[Unit]
+Description=RTES Bluesky Jetstream Monitor
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/home/Karatzas/rtes_project/rtes_monitor
+WorkingDirectory=/home/Karatzas/rtes_project
+Restart=on-failure
+RestartSec=5
+User=Karatzas
+
+[Install]
+WantedBy=multi-user.target

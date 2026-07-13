@@ -1,0 +1,15 @@
+# Build artifacts
+obj/
+rtes_monitor
+
+# Python analysis environment (not part of the repo)
+venv/
+rtes_env/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Backup log files (timestamped copies made during testing)
+data/*backup*

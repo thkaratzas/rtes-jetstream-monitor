@@ -125,4 +125,4 @@ The circular buffer never exceeded 0% occupancy even during the largest observed
 
 ## Author
 
-Athanasios Karatzas — School of Electrical & Computer Engineering (ECE), Electronics and Computer Sector, Supervising professor: Nikolaos Pitsianis, Aristotle University of Thessaloniki (AUTh)
+Athanasios Karatzas, School of Electrical & Computer Engineering (ECE), Electronics and Computer Sector, as part of the course of Embedded Real Time Systems, Supervising professor: Nikolaos Pitsianis, Aristotle University of Thessaloniki (AUTh)

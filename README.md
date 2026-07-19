@@ -1,6 +1,6 @@
 # RTES Jetstream Monitor
 
-A multi-threaded, real-time embedded system in C that connects to the [Bluesky Jetstream](https://docs.bsky.app/docs/advanced-guides/firehose) WebSocket firehose, asynchronously ingests live AT Protocol events, and produces drift-free periodic telemetry logs — built and validated on a **Raspberry Pi 5** running Raspberry Pi OS (Debian 12 "Bookworm").
+A multi-threaded, real-time embedded system in C that connects to the [Bluesky Jetstream](https://docs.bsky.app/docs/advanced-guides/firehose) WebSocket firehose, asynchronously ingests live AT Protocol events, and produces drift-free periodic telemetry logs, built and validated on a **Raspberry Pi 5** running Raspberry Pi OS (Debian 12 "Bookworm").
 
 Developed as coursework for a Real-Time Embedded Systems assignment: implement a Producer-Consumer pipeline with POSIX threads, bounded circular buffering, and a strictly periodic logger free of clock drift, then run it unattended for a full 24-hour data collection window.
 
